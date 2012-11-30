@@ -1,0 +1,26 @@
+# dir
+dist
+build
+
+# temp files
+*~
+*#
+
+# compiled
+*.o
+
+# haskell
+cabal-dev
+_darcs
+*.hi
+*.chi
+*.chs.h
+
+# mac os
+.DS_Store
+
+# xcode
+*.mode1v3
+*.pbxuser
+*project.xcworkspace/
+*xcuserdata/
